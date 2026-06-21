@@ -143,5 +143,10 @@
       "descricao": "Pão sem leite, salsicha de soja, purê de batata, milho, ervilha e batata palha.",
       "valor": 20
     }
-  ]
+  ],
+  "burguers": [
+    { "id": 1, "nome": "T-Burguer Classic", "preco": 24.90 },
+    { "id": 2, "nome": "Double Cheese", "preco": 29.90 }
+  ],
+  "pedidos": []
 }
